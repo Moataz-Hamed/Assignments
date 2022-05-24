@@ -5,6 +5,9 @@
  *      Author: Moataz
  */
 
+//average using arrays
+
+
 #include "stdio.h"
 
 int main() {
