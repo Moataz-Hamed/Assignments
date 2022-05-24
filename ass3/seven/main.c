@@ -1,10 +1,4 @@
-/*
- * main.c
- *
- *  Created on: May 23, 2022
- *      Author: Moataz
- */
-
+//the length of string manually
 
 #include <stdio.h>
 
@@ -14,5 +8,7 @@ void main(){
 	printf("Enter a String: ");
 	fflush(stdout);fflush(stdin);
 	gets(st);
-	printf("%d",strlen(st));
+	for(int i=0;st[i]!='\n';i++);
+	printf("%d",i);
+	
 }
