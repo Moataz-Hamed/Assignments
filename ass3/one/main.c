@@ -11,6 +11,9 @@
  *      Author: Moataz
  */
 
+
+//sum of two matrixes of order2*2
+
 #include "stdio.h"
 
 int main() {
