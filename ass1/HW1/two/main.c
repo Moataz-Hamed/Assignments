@@ -1,9 +1,5 @@
-/*
- * main.c
- *
- *  Created on: Mar 25, 2022
- *      Author: Moataz
- */
+//Write C Program to Print a Integer Entered by a User
+
 
 #include "stdio.h"
 
