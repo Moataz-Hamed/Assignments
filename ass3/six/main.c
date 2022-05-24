@@ -1,3 +1,6 @@
+
+//find the frequency of a character in a string
+
 #include <stdio.h>
 
 void main(){
