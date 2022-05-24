@@ -1,4 +1,7 @@
 
+//reverse string manually
+
+
 #include <stdio.h>
 
 void main(){
