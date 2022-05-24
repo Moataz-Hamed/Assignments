@@ -1,3 +1,5 @@
+//program to checkk whether a character is an alphabet or not
+
 #include <stdio.h>
 
 int main() {
