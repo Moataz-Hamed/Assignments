@@ -4,6 +4,8 @@
  *  Created on: Mar 26, 2022
  *      Author: Moataz
  */
+//Write C Program to Multiply two Floating Point Numbers
+
 
 #include "stdio.h"
 
