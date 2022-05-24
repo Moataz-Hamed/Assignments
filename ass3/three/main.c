@@ -1,9 +1,4 @@
-/*
- * main.c
- *
- *  Created on: Mar 30, 2022
- *      Author: Moataz
- */
+//transpose of a matrix
 
 #include "stdio.h"
 
