@@ -1,3 +1,5 @@
+//simple calculator program
+
 #include <stdio.h>
 
 void main() {
