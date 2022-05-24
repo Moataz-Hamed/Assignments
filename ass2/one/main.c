@@ -4,7 +4,7 @@
  *  Created on: Mar 27, 2022
  *      Author: Moataz
  */
-
+//Programe to check whethter a number is even or odd
 #include "stdio.h"
 
 int main () {
