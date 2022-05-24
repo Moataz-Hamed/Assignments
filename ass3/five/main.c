@@ -1,3 +1,7 @@
+
+//search for an element in an array
+
+
 #include <stdio.h>
 
 void main(){
