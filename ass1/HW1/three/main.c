@@ -1,9 +1,5 @@
-/*
- * main.c
- *
- *  Created on: Mar 26, 2022
- *      Author: Moataz
- */
+//Write C Program to Add Two Integers
+
 
 #include "stdio.h"
 
