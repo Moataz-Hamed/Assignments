@@ -1,9 +1,4 @@
-/*
- * main.c
- *
- *  Created on: Mar 27, 2022
- *      Author: Moataz
- */
+//program to find the largest number among 3 numbers
 
 
 #include"stdio.h"
