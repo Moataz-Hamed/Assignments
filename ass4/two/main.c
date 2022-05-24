@@ -1,9 +1,4 @@
-/*
- * main.c
- *
- *  Created on: May 15, 2022
- *      Author: Moataz
- */
+
 
 
 // Calculate the factorial of a number
