@@ -1,3 +1,5 @@
+//prime numbers between two intervals
+
 #include <stdio.h>
 int checkPrime(int num);
 int main(){
