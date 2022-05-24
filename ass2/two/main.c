@@ -4,7 +4,7 @@
  *  Created on: Mar 27, 2022
  *      Author: Moataz
  */
-
+//Program to check if a character is vowel or constant
 #include "stdio.h"
 
 int main () {
