@@ -6,12 +6,8 @@
  */
 
 
-/*
- * main.c
- *
- *  Created on: Mar 26, 2022
- *      Author: Moataz
- */
+//Write Source Code to Swap Two Numbers without temp variable.
+
 #include "stdio.h"
 
 int main() {
